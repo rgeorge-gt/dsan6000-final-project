@@ -1,0 +1,35 @@
+# ==========================================
+# DSAN 6000 — Splatoon 3 Final Project
+# ==========================================
+
+# All downloaded and generated datasets
+/data/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local logs and temporary files
+*.log
+*.tmp
